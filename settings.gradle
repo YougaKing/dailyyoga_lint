@@ -1,0 +1,2 @@
+rootProject.name='dailyyoga_lint'
+include ':app'
